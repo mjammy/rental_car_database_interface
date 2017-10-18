@@ -1,0 +1,2 @@
+Main-class: hurtsInterface
+Class-Path: ojdbc6.jar
